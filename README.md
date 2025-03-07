@@ -12,4 +12,5 @@ Użyta technologia:
 ![Diagram związków encji](diagram_zwiazkow_encji.png)
 
 <h2>Diagram encji</h2>
-![Diagram związków encji](serwis_it.png)
+
+![Diagram encji](serwis_it.png)
