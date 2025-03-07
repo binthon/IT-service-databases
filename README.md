@@ -67,6 +67,6 @@ Użyta technologia:
 - czy_dotyk – czy sprzęt posiada ekran dotykowy 
 - id_sklepu – sklep, w którym znajduje się sprzęt
 
-<h6>Wdrożenie systemu</h6>
+<h3>Wdrożenie systemu</h3>
 
-#to do 
+//to do 
