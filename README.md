@@ -9,4 +9,5 @@ Użyta technologia:
 
 <hr></hr>
 Diagram związków encji
+
 ![Diagram związków encji](diagram_zwiazkow_encji.png)
