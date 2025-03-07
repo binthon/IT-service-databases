@@ -17,7 +17,7 @@ Użyta technologia:
 
 <h3>Opisz poszczególnych encji</h3>
 
-<h5>1. Zgloszenia - przechowuje informacje o awariach zgłaszanych przez sklepy:</h5>
+1. Zgloszenia - przechowuje informacje o awariach zgłaszanych przez sklepy:
 - id_zgloszenia – unikalny identyfikator zgłoszenia
 - data_zgloszenia – data zgłoszenia problemu
 - kategoria – rodzaj awarii 
