@@ -66,4 +66,7 @@ Użyta technologia:
 - dysk, ilosc_ramu – parametry techniczne sprzętu
 - czy_dotyk – czy sprzęt posiada ekran dotykowy 
 - id_sklepu – sklep, w którym znajduje się sprzęt
-  
+
+<h6>Wdrożenie systemu</h6>
+
+#to do 
