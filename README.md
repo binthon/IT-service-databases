@@ -26,3 +26,43 @@ Użyta technologia:
 - id_rodzaju – rodzaj realizacji naprawy
 - priorytet – priorytet zgłoszenia
 - id_sprzetu – identyfikator uszkodzonego sprzętu
+
+2. Historie_zgloszenia - przechowuje historię statusów zgłoszeń:
+- status – aktualny status zgłoszenia
+- data_aktualizacji – data zmiany statusu
+- id_zgloszenia – powiązane zgłoszenie
+- pesel_sewisanta – serwisant przypisany do zgłoszenia
+
+3. Serwisanci - lista osób zajmujących się naprawami:
+- pesel – unikalny identyfikator serwisanta
+- imie, nazwisko – dane personalne
+- telefon, email – kontakt do danego serwisanta
+
+4. RodzajeRealizacji - sposób naprawy zgłoszonej awarii:
+- id_rodzaju – unikalny identyfikator
+- typ – sposób realizacji 
+- metoda – metoda naprawy
+- nazwa_kuriera – indetyfikator kuriera
+- numer_listu_przewozowego – numer przesyłki kurierskiej
+
+5. Priorytety - określa czas na wykonanie naprawy:
+- waga_naprawy – poziom priorytetu zgłoszenia
+- czas_na_wykonanie – maksymalny czas na naprawę
+
+6. Sklepy - reprezentuje sklepy franczyzowe, które mogą zgłaszać awarie:
+- id_sklepu – unikalny identyfikator sklepu
+- miasto, adres, kod_pocztowy – dane adresowe
+- pesel_franczyzobiorcy – właściciel sklepu (franczyzobiorca)
+
+7.  Franczyzobiorcy - przechowuje dane właścicieli sklepów:
+- pesel – unikalny identyfikator właściciela
+- imie, nazwisko – dane personalne
+- telefon, email – kontakt
+
+8. Sprzęt IT - baza sprzętu komputerowego w sklepach:
+- nr_seryjny – unikalny numer seryjny
+- nazwa_urzadzenia – nazwa sprzętu 
+- dysk, ilosc_ramu – parametry techniczne sprzętu
+- czy_dotyk – czy sprzęt posiada ekran dotykowy 
+- id_sklepu – sklep, w którym znajduje się sprzęt
+  
