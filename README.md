@@ -26,7 +26,7 @@ Użyta technologia:
 - id_rodzaju – rodzaj realizacji naprawy
 - priorytet – priorytet zgłoszenia
 - id_sprzetu – identyfikator uszkodzonego sprzętu
----
+<hr style="border: 0.5px solid #ddd;">
 2. Historie_zgloszenia - przechowuje historię statusów zgłoszeń:
 - status – aktualny status zgłoszenia
 - data_aktualizacji – data zmiany statusu
