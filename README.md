@@ -8,6 +8,6 @@ Użyta technologia:
 - Oracle Database 23 AI
 
 <hr></hr>
-# IT-service-databases
+<h2>Diagram związków encji</h2>
 
 ![Diagram związków encji](diagram_zwiazkow_encji.png)
