@@ -14,3 +14,5 @@ Użyta technologia:
 <h2>Diagram encji</h2>
 
 ![Diagram encji](serwis-it.png)
+
+<h3>Opisz poszczególnych encji</h3>
