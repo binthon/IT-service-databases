@@ -7,4 +7,7 @@ Użyta technologia:
 - Oracle SQL Developer
 - Oracle Database 23 AI
 
+<hr></hr>
+# Diagram związków encji
+
 ![Diagram związków encji](diagram_zwiazkow_encji.png)
