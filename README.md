@@ -104,7 +104,7 @@ LISTENER =
    ```GRANT CONNECT, RESOURCE TO SYSTEM;```
 
 9. Połączenie:
-   !(połączenie.png)
+   ![Połączenie](połączenie.png)
  Troubleshooting:
 1. Brak możliwości zalogowania przez cmd do SYSTEM
    - ```sqlplus / as sysdba```
