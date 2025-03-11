@@ -106,6 +106,8 @@ LISTENER =
 9. Połączenie:
    ![Połączenie](połączenie.png)
 
+10. W oknie Connect można kleić zawartość pliku serwis-it.sql, uruchomić, a następnie przetestować wklejająć i uruchamiajać serwis-it-insert.sql.
+
    
 <h2>Traoubleshooting</h2>
 
