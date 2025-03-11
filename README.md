@@ -9,11 +9,11 @@ Użyta technologia:
 
 <h2>Diagram związków encji</h2>
 
-![Diagram związków encji](diagram_zwiazkow_encji.png)
+![Diagram związków encji](diagram_ERD.png)
 
 <h2>Diagram encji</h2>
 
-![Diagram encji](serwis-it.png)
+![Diagram encji](diagram_encji.png)
 
 <h3>Opisz poszczególnych encji</h3>
 
