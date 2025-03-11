@@ -105,7 +105,9 @@ LISTENER =
 
 9. Połączenie:
    ![Połączenie](połączenie.png)
- Troubleshooting:
+
+   
+<h2>Traoubleshooting</h2>
 1. Brak możliwości zalogowania przez cmd do SYSTEM
    - ```sqlplus / as sysdba```
    - ```SELECT username, account_status FROM dba_users WHERE username = 'SYSTEM';``` jak LOCKED to: ```ALTER USER SYSTEM ACCOUNT UNLOCK;```
