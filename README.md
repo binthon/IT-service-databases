@@ -69,4 +69,6 @@ Użyta technologia:
 
 <h3>Wdrożenie systemu</h3>
 
-///to do 
+1. Pobranie silnika bazodanowego oraz SQL Developera
+a) ```https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#db_free```
+b) ```https://www.oracle.com/database/sqldeveloper/technologies/download/``` - wybrano Windows 64-bit with JDK 17 included
