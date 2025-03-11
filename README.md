@@ -5,7 +5,7 @@ Projekt dotyczy stworzenia systemu do obsługi awarii informatycznych dla sieci 
 Użyta technologia:
 - SQL
 - Oracle SQL Developer
-- Oracle Database 23 AI
+- Oracle Database 23 AI FREE
 
 <h2>Diagram związków encji</h2>
 
