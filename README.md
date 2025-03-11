@@ -72,3 +72,7 @@ Użyta technologia:
 1. Pobranie silnika bazodanowego oraz SQL Developera
 -  ```https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#db_free```
 -  ```https://www.oracle.com/database/sqldeveloper/technologies/download/``` - wybrano Windows 64-bit with JDK 17 included
+
+2. Po wpakowaniau z zipa plików, wykorzystujemy plik ```setup```. Podczas instalacji konfigurje się hasło.
+3. Urchomienie SQL Developera -> New Database Connection
+4. 
