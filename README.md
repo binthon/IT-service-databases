@@ -100,8 +100,8 @@ LISTENER =
    - w cmd wpisz ```sqlplus system@localhost:1521/FREEPDB1```
    - następnie dodaj uprawnienia do ```FREEPDB1```
    Dodanie uprawinień:
-   ```GRANT DBA TO SYSTEM;
-   GRANT CONNECT, RESOURCE TO SYSTEM;```
+   ```GRANT DBA TO SYSTEM;```
+   ```GRANT CONNECT, RESOURCE TO SYSTEM;```
 
 9. Połączenie:
    !(połączenie.png)
