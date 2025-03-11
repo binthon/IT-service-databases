@@ -94,4 +94,7 @@ LISTENER =
   )
 
 ```
-    
+5. Po zmianie należy restartować usługi związane z Oracle Database:
+   - ```OracleOraDB23Home1TNSListener```
+   - ```OracleServiceFREE```
+6. Następnie komendą ```lsnrctl status``` sprawdzić nasłuch na adresach z pliku listener.ora
