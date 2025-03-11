@@ -96,3 +96,19 @@ LISTENER =
    - ```OracleOraDB23Home1TNSListener```
    - ```OracleServiceFREE```
 6. Następnie komendą ```lsnrctl status``` sprawdzić nasłuch na adresach z pliku listener.ora
+7. Przyznanie uprawnień do FREEPDB1 dla usera SYSTEM
+   - w cmd wpisz ```sqlplus system@localhost:1521/FREEPDB1```
+   - następnie dodaj uprawnienia do ```FREEPDB1```
+   ```GRANT DBA TO SYSTEM;
+   GRANT CONNECT, RESOURCE TO SYSTEM;```
+
+8. Połączenie:
+   !(połączenie.png)
+ Troubleshooting:
+1. Brak możliwości zalogowania przez cmd do SYSTEM
+   - ```sqlplus / as sysdba```
+   - ```SELECT username, account_status FROM dba_users WHERE username = 'SYSTEM';``` jak LOCKED to: ```ALTER USER SYSTEM ACCOUNT UNLOCK;```
+
+
+
+
