@@ -73,8 +73,8 @@ Użyta technologia:
 -  ```https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#db_free```
 -  ```https://www.oracle.com/database/sqldeveloper/technologies/download/``` - wybrano Windows 64-bit with JDK 17 included
 
-2. Po wpakowaniau z zipa plików, wykorzystujemy plik ```setup```. Podczas instalacji konfigurje się hasło.
-3. Urchomienie SQL Developera -> New Database Connection
+2. Po wpakowaniau z zipa plików, wykorzystujemy plik ```setup```. Podczas instalacji konfiguruje się hasło.
+3. Urchomienie SQL Developera -> New Database Connection by stworzyć nowe połączenie
 4. Prawdopodobnie  podczas konfiguracji połączeń pojawią się błędy nasłuchu:
    - zmiana w pliku ```C:\app\{user}\product\23ai\dbhomeFree\network\admin\listener.ora```
 Dodanie localhost:
